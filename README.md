@@ -9,7 +9,7 @@
 
 Este header pertenece a la página web de una agencia de desarrollo web ficticia llamada "Livia". La agencia se presenta como una "Creative Agency from Indonesia" y ofrece servicios de diseño web, plantillas para redes sociales y arte digital. El diseño del header es moderno y profesional, con un esquema de colores predominantemente azul y blanco.
 > [!WARNING]
-> Este encabezado está diseñado para ofrecer una experiencia visual óptima en pantallas con una resolución de 1200px. De este modo se garantiza que los elementos visuales y la disposición del contenido se presenten de manera atractiva y efectiva en pantallas de este tamaño. 🖥️
+> Este encabezado está diseñado para ofrecer una experiencia visual óptima en pantallas con una resolución mínima de 1200px. De este modo se garantiza que los elementos visuales y la disposición del contenido se presenten de manera atractiva y efectiva en pantallas de este tamaño. 🖥️
 
 ## Estructura del Header :open_file_folder:
 
